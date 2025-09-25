@@ -2,7 +2,7 @@
 
 🌱 Beginner Web Developer | Exploring **HTML, CSS, JavaScript & Python**  
 🚀 Learning by building small projects and experimenting with ideas  
-✨ Interests: **Astronomy, Physics, Chess & Anime**
+💫 Interests 💫: **Nature, Astronomy, Science, Chess, Rubik's cube, Movies, Anime**
 
 ---
 
@@ -48,4 +48,4 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nishant7Adhikari&style=for-the-badge)
+![Profile Visits](https://komarev.com/ghpvc/?username=Nishant7Adhikari&style=for-the-badge)
