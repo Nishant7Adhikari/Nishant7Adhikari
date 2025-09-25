@@ -18,7 +18,7 @@
 
 ## 🛠 Featured Projects
 ⭐ [Web Dev Learning](https://github.com/Nishant7Adhikari/web_dev_learning) — Practice repo for my learning journey  
-
+⭐ [Website](https://nishantadhikari.info.np) — Live Website 
 ---
 
 ## 📊 GitHub Stats
