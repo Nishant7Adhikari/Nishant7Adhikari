@@ -30,8 +30,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant7Adhikari&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nishant7Adhikari&theme=tokyonight&hide_border=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant7Adhikari)  
-
 ---
 
 ## 🏆 Achievements
